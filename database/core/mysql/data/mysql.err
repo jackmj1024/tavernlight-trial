@@ -1,0 +1,123 @@
+2024-04-17 21:50:58 39012 [Note] Plugin 'FEDERATED' is disabled.
+2024-04-17 21:50:58 39012 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-04-17 21:50:58 39012 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-04-17 21:50:58 39012 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-04-17 21:50:58 39012 [Note] InnoDB: Memory barrier is not used
+2024-04-17 21:50:58 39012 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-04-17 21:50:58 39012 [Note] InnoDB: Not using CPU crc32 instructions
+2024-04-17 21:50:58 39012 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-04-17 21:50:58 39012 [Note] InnoDB: Completed initialization of buffer pool
+2024-04-17 21:50:58 39012 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-04-17 21:50:58 39012 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-04-17 21:50:58 39012 [Note] InnoDB: Waiting for purge to start
+2024-04-17 21:50:58 39012 [Note] InnoDB: 5.6.35 started; log sequence number 1771182
+2024-04-17 21:50:58 39012 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 7bdcbaf8-fd2e-11ee-b079-00155d0af543.
+2024-04-17 21:50:58 39012 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-04-17 21:50:58 39012 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-04-17 21:50:58 39012 [Note] Server socket created on IP: '127.0.0.1'.
+2024-04-17 21:50:58 39012 [Note] Event Scheduler: Loaded 0 events
+2024-04-17 21:50:58 39012 [Note] Execution of init_file 'C:\Users\jonesj\Data\Shared\Projects\tavernlight-trial\external\UniServerZ\core\mysql\bin\mysql-init.txt' started.
+2024-04-17 21:50:58 39012 [Note] Execution of init_file 'C:\Users\jonesj\Data\Shared\Projects\tavernlight-trial\external\UniServerZ\core\mysql\bin\mysql-init.txt' ended.
+2024-04-17 21:50:58 39012 [Note] C:\Users\jonesj\Data\Shared\Projects\tavernlight-trial\external\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2024-04-17 21:51:15 17824 [Note] Plugin 'FEDERATED' is disabled.
+2024-04-17 21:51:15 17824 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-04-17 21:51:15 17824 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-04-17 21:51:15 17824 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-04-17 21:51:15 17824 [Note] InnoDB: Memory barrier is not used
+2024-04-17 21:51:15 17824 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-04-17 21:51:15 17824 [Note] InnoDB: Not using CPU crc32 instructions
+2024-04-17 21:51:15 17824 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-04-17 21:51:15 17824 [Note] InnoDB: Completed initialization of buffer pool
+2024-04-17 21:51:15 17824 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-04-17 21:51:15 17824 [Note] InnoDB: Log scan progressed past the checkpoint lsn 1771182
+2024-04-17 21:51:15 17824 [Note] InnoDB: Database was not shutdown normally!
+2024-04-17 21:51:15 17824 [Note] InnoDB: Starting crash recovery.
+2024-04-17 21:51:15 17824 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2024-04-17 21:51:15 17824 [Note] InnoDB: Restoring possible half-written data pages 
+2024-04-17 21:51:15 17824 [Note] InnoDB: from the doublewrite buffer...
+InnoDB: Doing recovery: scanned up to log sequence number 1771192
+2024-04-17 21:51:15 17824 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-04-17 21:51:15 17824 [Note] InnoDB: Waiting for purge to start
+2024-04-17 21:51:15 17824 [Note] InnoDB: 5.6.35 started; log sequence number 1771192
+2024-04-17 21:51:15 17824 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-04-17 21:51:15 17824 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-04-17 21:51:15 17824 [Note] Server socket created on IP: '127.0.0.1'.
+2024-04-17 21:51:16 17824 [Note] Event Scheduler: Loaded 0 events
+2024-04-17 21:51:16 17824 [Note] C:\Users\jonesj\Data\Shared\Projects\tavernlight-trial\external\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2024-04-18 02:19:47 12924 [Note] Plugin 'FEDERATED' is disabled.
+2024-04-18 02:19:47 12924 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-04-18 02:19:47 12924 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-04-18 02:19:47 12924 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-04-18 02:19:47 12924 [Note] InnoDB: Memory barrier is not used
+2024-04-18 02:19:47 12924 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-04-18 02:19:47 12924 [Note] InnoDB: Not using CPU crc32 instructions
+2024-04-18 02:19:47 12924 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-04-18 02:19:47 12924 [Note] InnoDB: Completed initialization of buffer pool
+2024-04-18 02:19:47 12924 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-04-18 02:19:47 12924 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 2224803 in the ib_logfiles!
+2024-04-18 02:19:47 12924 [Note] InnoDB: Database was not shutdown normally!
+2024-04-18 02:19:47 12924 [Note] InnoDB: Starting crash recovery.
+2024-04-18 02:19:47 12924 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2024-04-18 02:19:47 12924 [Note] InnoDB: Restoring possible half-written data pages 
+2024-04-18 02:19:47 12924 [Note] InnoDB: from the doublewrite buffer...
+2024-04-18 02:19:48 12924 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-04-18 02:19:48 12924 [Note] InnoDB: Waiting for purge to start
+2024-04-18 02:19:48 12924 [Note] InnoDB: 5.6.35 started; log sequence number 2224803
+2024-04-18 02:19:48 12924 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-04-18 02:19:48 12924 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-04-18 02:19:48 12924 [Note] Server socket created on IP: '127.0.0.1'.
+2024-04-18 02:19:48 12924 [Note] Event Scheduler: Loaded 0 events
+2024-04-18 02:19:48 12924 [Note] C:\Users\jonesj\Data\Shared\Projects\tavernlight-trial\external\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2024-04-18 04:08:24 22680 [Note] Plugin 'FEDERATED' is disabled.
+2024-04-18 04:08:24 22680 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-04-18 04:08:24 22680 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-04-18 04:08:24 22680 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-04-18 04:08:24 22680 [Note] InnoDB: Memory barrier is not used
+2024-04-18 04:08:24 22680 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-04-18 04:08:24 22680 [Note] InnoDB: Not using CPU crc32 instructions
+2024-04-18 04:08:24 22680 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-04-18 04:08:24 22680 [Note] InnoDB: Completed initialization of buffer pool
+2024-04-18 04:08:24 22680 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-04-18 04:08:24 22680 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 2374923 in the ib_logfiles!
+2024-04-18 04:08:24 22680 [Note] InnoDB: Database was not shutdown normally!
+2024-04-18 04:08:24 22680 [Note] InnoDB: Starting crash recovery.
+2024-04-18 04:08:24 22680 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2024-04-18 04:08:24 22680 [Note] InnoDB: Restoring possible half-written data pages 
+2024-04-18 04:08:24 22680 [Note] InnoDB: from the doublewrite buffer...
+2024-04-18 04:08:24 22680 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-04-18 04:08:24 22680 [Note] InnoDB: Waiting for purge to start
+2024-04-18 04:08:24 22680 [Note] InnoDB: 5.6.35 started; log sequence number 2374923
+2024-04-18 04:08:24 22680 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-04-18 04:08:24 22680 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-04-18 04:08:24 22680 [Note] Server socket created on IP: '127.0.0.1'.
+2024-04-18 04:08:24 22680 [Note] Event Scheduler: Loaded 0 events
+2024-04-18 04:08:24 22680 [Note] C:\Users\jonesj\Data\Shared\Projects\tavernlight-trial\external\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2024-04-18 18:23:05 24312 [Note] Plugin 'FEDERATED' is disabled.
+2024-04-18 18:23:05 24312 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2024-04-18 18:23:05 24312 [Note] InnoDB: The InnoDB memory heap is disabled
+2024-04-18 18:23:05 24312 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-04-18 18:23:05 24312 [Note] InnoDB: Memory barrier is not used
+2024-04-18 18:23:05 24312 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2024-04-18 18:23:05 24312 [Note] InnoDB: Not using CPU crc32 instructions
+2024-04-18 18:23:05 24312 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2024-04-18 18:23:05 24312 [Note] InnoDB: Completed initialization of buffer pool
+2024-04-18 18:23:05 24312 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-04-18 18:23:05 24312 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 3369833 in the ib_logfiles!
+2024-04-18 18:23:05 24312 [Note] InnoDB: Database was not shutdown normally!
+2024-04-18 18:23:05 24312 [Note] InnoDB: Starting crash recovery.
+2024-04-18 18:23:05 24312 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2024-04-18 18:23:05 24312 [Note] InnoDB: Restoring possible half-written data pages 
+2024-04-18 18:23:05 24312 [Note] InnoDB: from the doublewrite buffer...
+2024-04-18 18:23:05 24312 [Note] InnoDB: 128 rollback segment(s) are active.
+2024-04-18 18:23:05 24312 [Note] InnoDB: Waiting for purge to start
+2024-04-18 18:23:05 24312 [Note] InnoDB: 5.6.35 started; log sequence number 3369833
+2024-04-18 18:23:05 24312 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2024-04-18 18:23:05 24312 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2024-04-18 18:23:05 24312 [Note] Server socket created on IP: '127.0.0.1'.
+2024-04-18 18:23:05 24312 [Note] Event Scheduler: Loaded 0 events
+2024-04-18 18:23:05 24312 [Note] C:\Users\jonesj\Data\Shared\Projects\tavernlight-trial\database\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)

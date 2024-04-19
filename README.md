@@ -16,11 +16,14 @@ The executables for the client were too large to push to GitHub, so you'll need 
 
 ## Questions
 
+### Questions 1-4
+**Q4:** [question_4.cpp](https://github.com/jackmj1024/tavernlight-trial/blob/main/questions/question_4.cpp)
+
 ### Question 5
 **Commit:** [185e87cca8ae3522c142c843279fbdb30321fc88](https://github.com/jackmj1024/tavernlight-trial/commit/185e87cca8ae3522c142c843279fbdb30321fc88)<br>
 **Video:** [question_5.mp4](https://github.com/jackmj1024/tavernlight-trial/blob/main/questions/question_5.mp4)<br>
 
-#### Files
+#### Files:
 [server/data/spells/spells.xml](https://github.com/jackmj1024/tavernlight-trial/blob/main/server/data/spells/spells.xml)<br>
 Register the new spell with words "frigo".
 <br>

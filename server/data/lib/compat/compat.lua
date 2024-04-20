@@ -139,6 +139,10 @@ do
 			self:type("modalwindow")
 			self:onModalWindow(value)
 			return
+		elseif key == "onJumpWindow" then
+			self:type("jumpwindow")
+			self:onJumpWindow(value)
+			return
 		elseif key == "onTextEdit" then
 			self:type("textedit")
 			self:onTextEdit(value)

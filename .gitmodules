@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:jackmj1024/otclient.git

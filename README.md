@@ -48,7 +48,8 @@ You can test this behaviour by typing "jump game" in the chat window.
 <br>
 **Commit:** [37d475f0dce365e13c5fb04b021a4cb56a871dde](https://github.com/jackmj1024/tavernlight-trial/commit/37d475f0dce365e13c5fb04b021a4cb56a871dde)<br>
 **Video:** [question_7.mp4](https://github.com/jackmj1024/tavernlight-trial/blob/main/questions/question_7.mp4)<br>
-
+**Hotfix Commit:** [6daefadd96ca2853fc88bb04f833d9d0ada6eb7a](https://github.com/jackmj1024/tavernlight-trial/commit/6daefadd96ca2853fc88bb04f833d9d0ada6eb7a)<br><br>
+*For the hotfix, all I did was fix a warning that would appear in the client console after closing the jump window. I also slightly reformatted the spells.xml file to make it more readable.*
 #### Files:
 [client/modules/game_jumpwindow/jumpwindow.lua](https://github.com/jackmj1024/otclient/blob/master/modules/game_jumpwindow/jumpwindow.lua)<br>
 Main behaviour script for the jumpwindow module.

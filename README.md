@@ -44,6 +44,10 @@ Add a definition for AREA_FRIGO, which specifies the area of affect for the new 
 <br>
 [server/data/spells/scripts/attack/custom_ice_spell.lua](https://github.com/jackmj1024/tavernlight-trial/blob/main/server/data/spells/scripts/attack/custom_ice_spell.lua)<br>
 Set up spell behaviour.
+]
+
+### Question 6
+Skipped; was unable to fully implement this within the limited time I had to understand the OTC codebase.
 
 ### Question 7
 You can test this behaviour by typing "jump game" in the chat window.

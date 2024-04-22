@@ -21,6 +21,7 @@ There are a few characters on this account. The main one I used for testing was 
 ## Questions
 
 ### Questions 1-4
+**Q1:** [question_1.lua](https://github.com/jackmj1024/tavernlight-trial/blob/main/questions/question_1.lua)<br>
 **Q2:** [question_2.lua](https://github.com/jackmj1024/tavernlight-trial/blob/main/questions/question_2.lua)<br>
 **Q3:** [question_3.lua](https://github.com/jackmj1024/tavernlight-trial/blob/main/questions/question_3.lua)<br>
 **Q4:** [question_4.cpp](https://github.com/jackmj1024/tavernlight-trial/blob/main/questions/question_4.cpp)

@@ -6,7 +6,7 @@ In order to commit my changes to the [client](https://github.com/jackmj1024/otcl
 <br><br>
 `git clone --recursive git@github.com:jackmj1024/tavernlight-trial.git`
 <br><br>
-**Note:** The client binaries are too large to push to GitHub, so it'll need to be compiled locally if you wish to run it. I compiled the x64 Release version. Likewise, the Tibia dat/spr files in data/things/ are also too large, so they will need to be downloaded and added manually. I used the data files for the 1098 client version, which you can find [here](https://downloads.ots.me/data/tibia-clients/dat_and_spr/1098.zip).
+**Note:** The client binaries are too large to push to GitHub, so it'll need to be compiled locally if you wish to run it. I compiled the x64 Release version. Likewise, the Tibia dat/spr files in data/things/ are also too large, so they will need to be downloaded and added manually. I used the data files for the 1098 client version, which you can find [here](https://downloads.ots.me/data/tibia-clients/dat_and_spr/1098.zip). Make sure to do this before launching the client. If you try to add them on the login screen without reloading the modules, then the question 7 module does not get loaded properly.
 <br><br>
 The [server](https://github.com/jackmj1024/tavernlight-trial/tree/main/server) directory contains an instance of the TFS server with binaries. Includes the changes made to answer some of the questions. 
 <br><br>
